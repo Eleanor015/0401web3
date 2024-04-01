@@ -7,24 +7,24 @@ body {
     width: 850px;
     margin: 0 auto;
     font-size: 10px;
-    background-image: url(./richard.jpg);
+    background-image: url(../images/richard.jpg);
     background-repeat: no-repeat;
     background-position: right center;
     background-attachment: fixed;
     background-size: cover;
-    background-image: linear-gradient(rgba(221, 216, 216, 0),rgba(207, 206, 202, 0)),url(./richard.jpg);
+    background-image: linear-gradient(rgba(221, 216, 216, 0),rgba(207, 206, 202, 0)),url(../images/richard.jpg);
     height: 50vh;
 }
 
 header {
     width: 850px;
     height: 170px;
-    background-image: url(./quan.jpg);
+    background-image: url(../images/quan.jpg);
     background-repeat: repeat-x;;
     background-position:  left bottom;
     background-attachment: fixed;
     background-size: cover;
-    background-image: linear-gradient(rgba(199, 217, 243, 0.5),rgba(167, 133, 97, 0)),url(./quan.jpg);
+    background-image: linear-gradient(rgba(199, 217, 243, 0.5),rgba(167, 133, 97, 0)),url(../images/quan.jpg);
 }
 
 h1 {
@@ -97,7 +97,7 @@ audio {
 }
 
 aside {
-    background-image: linear-gradient(rgba(199, 217, 243, 0.5),rgba(167, 133, 97, 0)),url(./quan.jpg);
+    background-image: linear-gradient(rgba(199, 217, 243, 0.5),rgba(167, 133, 97, 0)),url(../images/quan.jpg);
     background-repeat: repeat-x;;
     background-position:  left bottom;
     background-attachment: fixed;
@@ -161,5 +161,8 @@ h4 {
     padding-right: 5px;
     background-color: rgba(235, 206, 143, 0),rgba(156, 138, 66, 0.18);
 }
+
+
+
 
 
